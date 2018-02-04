@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="id.co.namasa.studycase1.SecondAvtivity">
+    tools:context="id.co.namasa.AHMAD_TAUFIQ_HIDAYAT_1202152178_MODUL1.SecondAvtivity">
 
     <TextView
         android:id="@+id/title"

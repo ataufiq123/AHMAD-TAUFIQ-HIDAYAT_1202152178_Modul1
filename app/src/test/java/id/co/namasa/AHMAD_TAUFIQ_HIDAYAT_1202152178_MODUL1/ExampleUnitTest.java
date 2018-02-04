@@ -1,4 +1,4 @@
-package id.co.namasa.studycase1;
+package id.co.namasa.AHMAD_TAUFIQ_HIDAYAT_1202152178_MODUL1;
 
 import org.junit.Test;
 
