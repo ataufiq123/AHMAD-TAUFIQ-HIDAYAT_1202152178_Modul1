@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
         String place = eatbusBtn.getText().toString();
 
 
-        if (food.isEmpty()){
+        if (food.isEmpty()||porsi.isEmpty()){
             Toast.makeText(this, "Lengkapi Formnya", Toast.LENGTH_SHORT).show();
         }else{
             intent.putExtra("food",food);
